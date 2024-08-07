@@ -7,4 +7,5 @@
                  start-page="starter.md">
 
     <toc-element topic="starter.md"/>
+    <toc-element topic="parat-6-Überblick.md"/>
 </instance-profile>
