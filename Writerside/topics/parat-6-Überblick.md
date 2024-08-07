@@ -8,8 +8,7 @@ Mit parat 6 erhalten Sie in leistungsstarkes Werkzeug für das Tagesgeschäft ei
 
 ## What is product/service/concept
 
-Provide some background and context, explain choices and alternatives.
-
+ 
 ## Glossary
 
 A definition list or a glossary:
