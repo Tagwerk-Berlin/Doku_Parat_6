@@ -7,8 +7,10 @@ Mit parat 6 erhalten Sie in leistungsstarkes Werkzeug für das Tagesgeschäft ei
 "Essen auf Rädern" gelegt.
 
 ## What is product/service/concept
+# Systemvoraussetzungen
 
- 
+
+
 ## Glossary
 
 A definition list or a glossary:
